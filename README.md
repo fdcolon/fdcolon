@@ -1,9 +1,10 @@
-- 👋 Hi, my name is **Fernando Daniel Colon Gonzalez**.
+- 🙋🏽‍♂️ Hi, my name is **Fernando Daniel Colon Gonzalez**.
 - 🗺 I’m located at **Alpharetta, GA**.
 - 👀 I’m interested in **UI** and **Full Stack Developing**. I always love to learn something new to be applied in my job or in my personal projects.
 - 🌱 I’m currently improving my skills in `React.js` and learning `React Native`.
 - 📧 You can reach me at [daniel.colon.gonzalez@gmail.com](mailto://daniel.colon.gonzalez@gmail.com)
-- 🏆 These are some of my achievements:
+- 📝 You can find my **Work Experience** at [LinkedIn](https://www.linkedin.com/in/fernandodanielcolongonzalez).
+- 🏆 These are some of the certifications I have earned:
   - **React.js**
     - [React: Nanodegree Program](https://graduation.udacity.com/confirm/GTYKX4D6) - Feb 2021
     - [React (Basic) Certificate](https://www.hackerrank.com/certificates/dbca67daa86b) - May 2020
@@ -40,7 +41,7 @@
     - [Java Course](https://www.sololearn.com/Certificate/1068-1574535/jpg/) - Aug 2016
   
   - **Microsoft SQL Server**
-    -[MTA: Database Fundamentals - Certified 2017](https://www.youracclaim.com/badges/520c8abb-b854-400f-9b4b-05681473198b) - Apr 2017
+    - [MTA: Database Fundamentals - Certified 2017](https://www.youracclaim.com/badges/520c8abb-b854-400f-9b4b-05681473198b) - Apr 2017
   
   
     
