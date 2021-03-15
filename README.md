@@ -6,8 +6,8 @@
 - 📝 You can find my **Work Experience** at [LinkedIn](https://www.linkedin.com/in/fernandodanielcolongonzalez).
 - 🏆 These are some of the certifications I have earned:
   - **React.js**
-    - <a href="https://graduation.udacity.com/confirm/GTYKX4D6" target="_blank">React: Nanodegree Program</a> - Feb 2021
-    - <a href="https://www.hackerrank.com/certificates/dbca67daa86b" target="_blank">React (Basic) Certificate</a> - May 2020
+    - [React: Nanodegree Program](https://graduation.udacity.com/confirm/GTYKX4D6) - Feb 2021
+    - [React (Basic) Certificate](https://www.hackerrank.com/certificates/dbca67daa86b) - May 2020
     - [Modern React with Redux [2020 Update]](https://www.udemy.com/certificate/UC-9bed6d9a-46c8-4060-a68a-dc143aed9b53) - Apr 2020
     - [React JS + Redux + ES6. Completo ¡De 0 a experto!](https://www.udemy.com/certificate/UC-139ab677-6c78-44b2-9f82-eda691a2c2b9) - Apr 2020
     - [Front-End Web Development with React](https://www.coursera.org/account/accomplishments/verify/JXUERW9DMAYR) - Dec 2018
