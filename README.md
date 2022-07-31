@@ -1,5 +1,5 @@
 - 🙋🏽‍♂️ Hi, my name is **Fernando Daniel Colon Gonzalez**.
-- 🗺 I’m located at **Alpharetta, GA**.
+- 🗺 I’m located at **Belmont, CA**.
 - 👀 I’m interested in **UI** and **Full Stack Developing**. I always love to learn something new to be applied in my job or in my personal projects.
 - 🌱 I’m currently improving my skills in `React.js` and learning `React Native`.
 - 📧 You can reach me at [daniel.colon.gonzalez@gmail.com](mailto://daniel.colon.gonzalez@gmail.com)
